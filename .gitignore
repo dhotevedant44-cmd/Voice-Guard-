@@ -1,0 +1,13 @@
+# Dependencies, credentials, and local model data must stay out of Git.
+node_modules/
+.vercel/
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.model-cache/
+*.log
+*.err

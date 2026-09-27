@@ -1,0 +1,5 @@
+.venv
+.model-cache
+*.log
+*.err
+voiceguard-local-detector.zip
